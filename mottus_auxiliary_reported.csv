@@ -1,0 +1,6 @@
+measure,value,units,source_location,source_doi
+Hypothetical conscientiousness to general healthiness correlation,0.05,correlation,"Mottus (2022), healthiness example",10.5964/ps.7467
+Health example high-high conditional probability,35.3,percent,"Mottus (2022), Figure 3 / healthiness example",10.5964/ps.7467
+Health example low-conscientiousness vs high-health conditional probability,31.4,percent,"Mottus (2022), Figure 3 / healthiness example",10.5964/ps.7467
+Health example overall matching tertiles,34.7,percent,"Mottus (2022), healthiness example",10.5964/ps.7467
+Median-split same-half agreement at r 0.25,58.1,percent,"Mottus (2022), Figure 5 / BESD discussion",10.5964/ps.7467

@@ -1,0 +1,42 @@
+AWALT CRITIQUE — RECONSTRUCTION RESULTS
+=======================================
+Inputs: published aggregate statistics + clearly hypothetical values; not participant-level data.
+
+Weisberg et al. (2011), Agreeableness
+  Male n=892, female n=1751; male mean=3.65, female mean=3.89; both SDs=0.50.
+  Published Cohen d: 0.48; rounded-mean/SD d: 0.48.
+  Approximate point-biserial r using sample proportions and d: 0.2213.
+  Normal independent-draw P(woman > man): 63.2850% (article rounds to 63.3%).
+
+Mottus (2022), normal-model TACT
+  r=0.05: computed matching accuracy=34.6742%; published rounded=34.7%; baseline=33.3333%.
+  r=0.25: computed matching accuracy=40.4698%; published rounded=40.5%; baseline=33.3333%.
+  r=0.50: computed matching accuracy=49.1587%; published rounded=49.2%; baseline=33.3333%.
+  At r=.25, low→low/high→high=43.58%; medium→medium=34.30%.
+  Median-split analytical agreement at r=.25: 58.0431% (Mottus reports 58.1%; see AUDIT_NOTES).
+  Hypothetical healthiness example: 35.3% vs 31.4% = 3.9 percentage points; 34.7% matching-tertile accuracy is a different quantity.
+
+Rodrigues et al. (2017), Table 2, adjusted logistic coefficients
+  Sociosexual behavior: B=0.81, exp(B)=2.2479, reported OR=2.25, displayed 95% CI=[1.65, 3.06].
+  Sociosexual desire: B=0.25, exp(B)=1.2840, reported OR=1.28, displayed 95% CI=[1.00, 1.63].
+  Commitment: B=-0.43, exp(B)=0.6505, reported OR=0.65, displayed 95% CI=[0.51, 0.83].
+  Selected sample n=252, men=201, women=51; past infidelity: 172/252=68.2540%.
+  Note: the reported rounded 1.00 CI endpoint for desire is compatible with printed p=.046.
+
+Hypothetical prevalence illustration: women 90%, men 85%; these are NOT observations.
+
+Eagly & Hall (2025), FINAL peer-reviewed publication
+  Directional agreement: 570/673 = 84.6954% (reported rounded 85%).
+  Eligible bias comparisons: 329/471 = 69.8514% underestimates (reported 70%).
+    Cognitive skills: underestimates=7/7=100.00%; overestimates=0.00%.
+    Occupations: underestimates=250/277=90.25%; overestimates=9.75%.
+    College major and GPA: underestimates=21/30=70.00%; overestimates=30.00%.
+    Traits and behaviors: underestimates=49/147=33.33%; overestimates=66.67%.
+    Attitudes and preferences: underestimates=2/10=20.00%; overestimates=80.00%.
+  Reported (not independently reestimated) Mean consensual sensitivity correlation: 0.77.
+  Reported (not independently reestimated) Mean consensual sensitivity correlation occupations: 0.95.
+  Reported (not independently reestimated) Mean consensual sensitivity correlation traits and behaviors: 0.64.
+  Reported (not independently reestimated) Mean magnitude-only correlation traits men higher: 0.26.
+  Reported (not independently reestimated) Mean magnitude-only correlation traits women higher: 0.33.
+
+All validation checks passed. Figures 1–6 generated.

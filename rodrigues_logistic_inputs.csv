@@ -1,0 +1,4 @@
+variable,standardized_logit_coefficient,reported_adjusted_odds_ratio,ci_low,ci_high,reported_p_value,source_location,source_doi
+Sociosexual behavior,0.81,2.25,1.65,3.06,,"Rodrigues et al. (2017), Table 2",10.1080/00224499.2016.1145182
+Sociosexual desire,0.25,1.28,1.00,1.63,0.046,"Rodrigues et al. (2017), Table 2; lower CI endpoint rounded",10.1080/00224499.2016.1145182
+Commitment,-0.43,0.65,0.51,0.83,,"Rodrigues et al. (2017), Table 2",10.1080/00224499.2016.1145182
